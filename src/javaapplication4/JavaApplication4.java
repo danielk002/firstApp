@@ -18,6 +18,10 @@ public class JavaApplication4 {
         // TODO code application logic here
         //change 1
         System.out.println("Hello World!");
+        
+        for(int i=0;i<50;i++){
+            System.out.println(i*100);
+        }
     }
     
 }
